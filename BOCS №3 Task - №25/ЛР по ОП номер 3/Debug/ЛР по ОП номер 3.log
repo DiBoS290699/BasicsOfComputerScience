@@ -1,0 +1,8 @@
+﻿C:\Programms\MVStudio C++\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Отказано в доступе по пути "c:\users\dibos\source\repos\лр по оп номер 3\debug\лр по оп номер 3.exe".
+  stdafx.cpp
+  ЛР по ОП номер 3.cpp
+c:\users\dibos\source\repos\лр по оп номер 3\лр по оп номер 3\лр по оп номер 3.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\dibos\source\repos\лр по оп номер 3\лр по оп номер 3\лр по оп номер 3.cpp(71): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\dibos\source\repos\лр по оп номер 3\лр по оп номер 3\лр по оп номер 3.cpp(73): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\dibos\source\repos\лр по оп номер 3\лр по оп номер 3\лр по оп номер 3.cpp(53): warning C4715: check_str: значение возвращается не при всех путях выполнения
+LINK : fatal error LNK1104: не удается открыть файл "c:\users\dibos\source\repos\ЛР по ОП номер 3\Debug\ЛР по ОП номер 3.exe"
